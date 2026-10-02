@@ -1,0 +1,10 @@
+Cutoff: 140 mmHg
+Reason: 140 mmHg is the stage 2 hypertension threshold, so the limited call-back slots go to patients most likely to need a treatment change.
+P002
+P006
+P011
+P014
+P018
+P022
+P025
+P028
